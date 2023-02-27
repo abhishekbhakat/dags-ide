@@ -1,0 +1,4 @@
+astro-sdk-python[snowflake,postgres,amazon,google]==1.4.0
+pandas==1.5.2
+
+duckdb==0.7.0
