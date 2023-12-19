@@ -1,4 +1,5 @@
 astro-sdk-python[amazon,databricks,duckdb,google,postgres,snowflake]==1.5.3
 
-apache-airflow-providers-amazon==8.3.1
+apache-airflow-providers-amazon==8.5.1
 astronomer-providers==1.17.3
+airflow-provider-anomaly-detection==0.0.33
